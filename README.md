@@ -22,7 +22,8 @@
 
 **Who I am**
 
-ハサカン(Hasakan)。趣味で AI 研究。フルスクラッチでニューラルネットワーク。CPU からアセンブラ、コンパイラ、OS まで設計。
+ハサカン(Hasakan)。趣味で AI 研究。フルスクラッチでNN、CPU、アセンブラ、コンパイラ、OS まで設計。
+
 
 **What I do**
 
@@ -33,7 +34,7 @@
 
 **Currently**
 
-- 📄 論文1号 [My Sleep Life Innovation](https://doi.org/10.5281/zenodo.23585090)(v2・v3 も出す予定)
+- 📄 論文1号まずは睡眠と思った→ [My Sleep Life Innovation](https://doi.org/10.5281/zenodo.23585090)(v2・v3 も出す予定)
 - 🏆 Tongali ビジネスプランコンテスト2026 愛知県信用保証協会賞
 
 </td>
