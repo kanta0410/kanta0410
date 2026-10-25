@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,60:3a0a10,100:ff3b47&height=170&section=header&text=Hasakan&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Hasakan" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3B47&center=true&vCenter=true&width=620&lines=Hobby%3A+AI+Research+%7C+Self-Experimenter;Machine+Learning+%C3%97+Claude+%C3%97+Automation" alt="Hobby: AI Research | Self-Experimenter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3B47&center=true&vCenter=true&width=620&lines=Hobby%3A+AI+Research+%7C+Self-Experimenter;Neural+Nets+from+Scratch;CPU+%E2%86%92+Assembler+%E2%86%92+Compiler+%E2%86%92+OS" alt="Hobby: AI Research | Self-Experimenter" />
 
   <p>
     <a href="https://kanta0410.github.io/"><img src="https://img.shields.io/badge/Website-kanta0410.github.io-ff3b47?style=for-the-badge" alt="Website" /></a>
@@ -22,7 +22,7 @@
 
 **Who I am**
 
-ハサカン(Hasakan)。趣味で AI 研究。機械学習と Claude で、仕事も生活も自動で回している。
+ハサカン(Hasakan)。趣味で AI 研究。フルスクラッチでニューラルネットワーク。CPU からアセンブラ、コンパイラ、OS まで設計。
 
 **What I do**
 
