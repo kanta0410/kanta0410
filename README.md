@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,60:3a0a10,100:ff3b47&height=170&section=header&text=Hasakan&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Hasakan" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3B47&center=true&vCenter=true&width=620&lines=AI+Researcher+%7C+Self-Experimenter+%7C+AI+Consultant;Machine+Learning+%C3%97+Claude+%C3%97+Automation" alt="AI Researcher | Self-Experimenter | AI Consultant" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3B47&center=true&vCenter=true&width=620&lines=Hobby%3A+AI+Research+%7C+Self-Experimenter;Machine+Learning+%C3%97+Claude+%C3%97+Automation" alt="Hobby: AI Research | Self-Experimenter" />
 
   <p>
     <a href="https://kanta0410.github.io/"><img src="https://img.shields.io/badge/Website-kanta0410.github.io-ff3b47?style=for-the-badge" alt="Website" /></a>
@@ -22,11 +22,11 @@
 
 **Who I am**
 
-ハサカン(Hasakan)。AI 研究者。機械学習と Claude で、仕事も生活も自動で回している。
+ハサカン(Hasakan)。趣味で AI 研究。機械学習と Claude で、仕事も生活も自動で回している。
 
 **What I do**
 
-自分の体で実験して論文にする。企業の AI 導入を手伝う。
+自分の体で実験して論文にする。
 
 </td>
 <td valign="top" width="50%">
@@ -35,7 +35,6 @@
 
 - 📄 論文1号 [My Sleep Life Innovation](https://doi.org/10.5281/zenodo.23585090)(v2・v3 も出す予定)
 - 🏆 Tongali ビジネスプランコンテスト2026 愛知県信用保証協会賞
-- 💼 AI コンサル(初回の相談は無料) → [kanta0410.github.io](https://kanta0410.github.io/)
 
 </td>
 </tr>
