@@ -50,6 +50,6 @@
 | | |
 |---|---|
 | 📄 [my-sleep-life-innovation](https://github.com/kanta0410/my-sleep-life-innovation) | 睡眠の人体実験(論文1号)のコード |
-| 🌐 [kanta0410.github.io](https://github.com/kanta0410/kanta0410.github.io) | この人の個人サイト。DeepSeek で生成 |
+| 🌐 [kanta0410.github.io](https://github.com/kanta0410/kanta0410.github.io) | 個人サイト。DeepSeek で生成 |
 
 </div>
